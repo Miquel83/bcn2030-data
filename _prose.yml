@@ -97,6 +97,11 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
+      - name: "national_target_line"
+        field:
+            element: text
+            label: "Local target"
+            scope: national
       - name: "national_geographical_coverage"
         field:
             element: text
