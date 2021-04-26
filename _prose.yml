@@ -102,7 +102,7 @@ prose:
             element: text
             label: "Barcelona Target"
             scope: national
-        - name: "operational_target"
+      - name: "operational_target"
         field:
             element: text
             label: "Operational Target"
