@@ -102,6 +102,16 @@ prose:
             element: text
             label: "Barcelona Target"
             scope: national
+        - name: "operational_target"
+        field:
+            element: text
+            label: "Operational Target"
+            scope: national
+      - name: "target_line_2030"
+        field:
+            element: text
+            label: "Target line (2030)"
+            scope: national
       - name: "national_target_line"
         field:
             element: text
