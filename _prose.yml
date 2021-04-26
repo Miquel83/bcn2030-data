@@ -97,6 +97,10 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
+      - name: "barcelona_target"
+        field:
+            element: text
+            label: "Barcelona Target"
       - name: "national_target_line"
         field:
             element: text
