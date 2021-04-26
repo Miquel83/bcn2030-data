@@ -101,6 +101,7 @@ prose:
         field:
             element: text
             label: "Barcelona Target"
+            scope: national
       - name: "national_target_line"
         field:
             element: text
