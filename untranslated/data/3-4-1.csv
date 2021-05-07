@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Units,Value
+2015,Men,Rate per 100.000,3224.2
+2015,Women,Rate per 100.000,1756.1
+2016,Men,Rate per 100.000,3114.2
+2016,Women,Rate per 100.000,1617.2
+2017,Men,Rate per 100.000,3356.1
+2017,Women,Rate per 100.000,1677.6
