@@ -37,7 +37,7 @@ prose:
             scope: global
       - name: "indicator"
         field:
-            element: hidden
+            element: text
             label: "Indicator number"
             translation_key: metadata_fields.indicator
             scope: global
