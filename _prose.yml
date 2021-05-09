@@ -279,6 +279,7 @@ prose:
             translation_key: metadata_fields.source_release_date_1
             help: "A date in YYYY-MM-DD format"
             placeholder: "YYYY-MM-DD"
+            format: "%d de %b de %Y"
             scope: source_1
       - name: "source_next_release_1"
         field:
@@ -287,6 +288,7 @@ prose:
             translation_key: metadata_fields.source_next_release_1
             help: "A date in YYYY-MM-DD format"
             placeholder: "YYYY-MM-DD"
+            format: "%d de %b de %Y"
             scope: source_1
       - name: "source_statistical_classification_1"
         field:
@@ -358,6 +360,7 @@ prose:
             translation_key: metadata_fields.source_release_date_1
             help: "A date in YYYY-MM-DD format"
             placeholder: "YYYY-MM-DD"
+            format: "%d de %b de %Y"
             scope: source_2
       - name: "source_next_release_2"
         field:
@@ -366,6 +369,7 @@ prose:
             translation_key: metadata_fields.source_next_release_1
             help: "A date in YYYY-MM-DD format"
             placeholder: "YYYY-MM-DD"
+            format: "%d de %b de %Y"
             scope: source_2
       - name: "source_statistical_classification_2"
         field:
