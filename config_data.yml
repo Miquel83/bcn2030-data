@@ -11,15 +11,6 @@ languages:
   - en
   - es
 
-# Date format
-date_formats:
-  - type: standard
-    language: en
-    format: "%b %d, %Y"
-  - type: standard
-    language: es
-    format: "%d de %b de %Y"
-
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
