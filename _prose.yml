@@ -142,6 +142,20 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
+            - name: "tags"
+        field:
+            element: multiselect
+            label: "Tags"
+            options:
+              - name: 'Revised'
+                value: 'Revised'
+              - name: 'New'
+                value: 'New'
+              - name: 'Non-Statistical'
+                value: 'Non-Statistical'
+              - name: 'Proxy'
+                value: 'Proxy'
+            scope: national
        ######### Data Info #########
       - name: "reporting_status"
         field:
