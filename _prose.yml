@@ -142,7 +142,7 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
-            - name: "tags"
+      - name: "tags"
         field:
             element: multiselect
             label: "Tags"
