@@ -3,22 +3,5 @@ Month: Mes
 Value: Valor
 total: Total
 Entity: Entitat
-type of revenue: Tipus d'ingrés
 Type: Tipus
-type of product: Tipus de producte
-excise duties on import goods: Impostos especials sobre productes d'importació
-excise duties on domestic goods: Impostos especials sobre productes nacionals
-road tax on petroleum products:  Impostos de circulació sobre els productes petrolífers
-other income and charges: Altres ingressos i despeses
-export_2019: Exportació 2019
-import_2019: Importació 2019
-export_2020: Exportació 2020
-import_2020: Importació 2020
-export_2021: Exportació 2021
-import_2021: Importació 2021
-intermediate goods: Bens intermitjos
-energy: Energia
-capital goods: Bens de capital
-overall index 2019: Índex general 2019
-overall index 2020: Índex general 2020
-overall index 2021: Índex general 2021
+Percentage: Percentatge
