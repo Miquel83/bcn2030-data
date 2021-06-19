@@ -5,20 +5,4 @@ total: Total
 Entity: Entidad
 type of revenue: Tipo de ingresos
 Type: Tipo
-type of product: Tipo de producto
-excise duties on import goods: Impuestos especiales sobre productos de importación
-excise duties on domestic goods: Impuestos especiales sobre productos nacionales
-road tax on petroleum products:  Impuesto de circulación sobre los productos petrolíferos
-other income and charges: Otros ingresos y gastos
-export_2019: Exportación 2019
-import_2019: Importación 2019
-export_2020: Exportación 2020
-import_2020: Importación 2020
-export_2021: Exportación 2021
-import_2021: Importación 2021
-intermediate goods: Bienes intermedios
-energy: Energía
-capital goods: Bienes de capital
-overall index 2019: Índice general 2019
-overall index 2020: Índice general 2020
-overall index 2021: Índice general 2021
+Percentage: Porcentaje
