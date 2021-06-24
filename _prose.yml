@@ -144,16 +144,16 @@ prose:
             options:
               - name: 'Revised'
                 value: 'Revised'
-                translation_key: custom-translations.revised
+                translation_key: data.revised
               - name: 'New'
                 value: 'New'
-                translation_key: custom-translations.new
+                translation_key: data.new
               - name: 'Non-Statistical'
                 value: 'Non-Statistical'
-                translation_key: custom-translations.non_statistical
+                translation_key: data.non_statistical
               - name: 'Proxy'
                 value: 'Proxy'
-                translation_key: custom-translations.proxy
+                translation_key: data.proxy
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
