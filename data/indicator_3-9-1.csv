@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Confidence_Interval_95%,Units,Value
+2019,Central position,Total Number,1000
+2019,High position,Total Number,1400
+2019,Low position,Total Number,600
