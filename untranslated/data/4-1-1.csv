@@ -1,1 +1,21 @@
-Year,Value
+Year,Basic_Skill,Units,Value
+2015-2016,Catalan,Percentage,90.2
+2015-2016,Spanish,Percentage,91.5
+2015-2016,English ,Percentage,89.4
+2015-2016,Mathematics,Percentage,88.0
+2015-2016,Science and Technology,Percentage,85.9
+2016-2017,Catalan,Percentage,90.9
+2016-2017,Spanish,Percentage,90.7
+2016-2017,English ,Percentage,90.1
+2016-2017,Mathematics,Percentage,88.0
+2016-2017,Science and Technology,Percentage,86.2
+2017-2018,Catalan,Percentage,90.9
+2017-2018,Spanish,Percentage,91.4
+2017-2018,English ,Percentage,90.5
+2017-2018,Mathematics,Percentage,90.4
+2017-2018,Science and Technology,Percentage,86.6
+2018-2019,Catalan,Percentage,88.9
+2018-2019,Spanish,Percentage,90.4
+2018-2019,English ,Percentage,92.4
+2018-2019,Mathematics,Percentage,87.5
+2018-2019,Science and Technology,Percentage,86.0
