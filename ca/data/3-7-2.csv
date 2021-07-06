@@ -1,13 +1,13 @@
-Year,Districte,Units,Value
-2018,Barcelona,Taxa per 1.000,16.01
-2018,Ciutat Vella,Taxa per 1.000,25.88
-2018,Eixample,Taxa per 1.000,15.3
-2018,Sants-Montjuïc,Taxa per 1.000,17.78
-2018,Les Corts,Taxa per 1.000,6.03
-2018,Sarrià - Sant Gervasi,Taxa per 1.000,6.42
-2018,Gràcia,Taxa per 1.000,4.58
-2018,Horta - Guinardó,Taxa per 1.000,7.19
-2018,Nou Barris,Taxa per 1.000,24.66
-2018,Sant Andreu,Taxa per 1.000,14.33
-2018,Sant Martí,Taxa per 1.000,15.0
-2018,Barcelona,Diferencial de la taxa més baixa,21.3
+Year,District,Units,Value
+2018,Barcelona,Rate per 1.000,16.01
+2018,Ciutat Vella,Rate per 1.000,25.88
+2018,Eixample,Rate per 1.000,15.3
+2018,Sants-Montjuïc,Rate per 1.000,17.78
+2018,Les Corts,Rate per 1.000,6.03
+2018,Sarrià - Sant Gervasi,Rate per 1.000,6.42
+2018,Gràcia,Rate per 1.000,4.58
+2018,Horta - Guinardó,Rate per 1.000,7.19
+2018,Nou Barris,Rate per 1.000,24.66
+2018,Sant Andreu,Rate per 1.000,14.33
+2018,Sant Martí,Rate per 1.000,15.0
+2018,Barcelona,Differential higuest lowest rate,21.3

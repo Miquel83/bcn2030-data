@@ -1,4 +1,4 @@
-Year,Gènere,Units,Value
-2016,,Percentatge,6.5
-2016,Homes,Percentatge,9.0
-2016,Dones,Percentatge,4.2
+Year,Gender,Units,Value
+2016,,Percentage,6.5
+2016,Men,Percentage,9.0
+2016,Women,Percentage,4.2

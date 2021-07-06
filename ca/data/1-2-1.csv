@@ -1,10 +1,10 @@
-Year,Àrea Geogràfica,Units,Value
-2016-2017,Barcelona,Percentatge,4.8
-2017-2018,Barcelona,Percentatge,4.5
-2019-2020,Barcelona,Percentatge,4.7
-2016-2017,Barcelona(població 0-15 anys),Percentatge,4.6
-2017-2018,Barcelona(població 0-15 anys),Percentatge,6.7
-2019-2020,Barcelona(població 0-15 anys),Percentatge,9.9
-2016-2017,Àrea Metropolitana Barcelona,Percentatge,5.3
-2017-2018,Àrea Metropolitana Barcelona,Percentatge,4.9
-2019-2020,Àrea Metropolitana Barcelona,Percentatge,4.5
+Year,Geographical_Area,Units,Value
+2016-2017,Barcelona,Percentage,4.8
+2017-2018,Barcelona,Percentage,4.5
+2019-2020,Barcelona,Percentage,4.7
+2016-2017,Barcelona(0-15 population),Percentage,4.6
+2017-2018,Barcelona(0-15 population),Percentage,6.7
+2019-2020,Barcelona(0-15 population),Percentage,9.9
+2016-2017,Barcelona Metropolitan Area,Percentage,5.3
+2017-2018,Barcelona Metropolitan Area,Percentage,4.9
+2019-2020,Barcelona Metropolitan Area,Percentage,4.5

@@ -1,4 +1,4 @@
-Year,Interval de confiança 95%,Units,Value
-2019,Posició central,Número Total,1000
-2019,Posició alta,Número Total,1400
-2019,Posició baixa,Número Total,600
+Year,Confidence_Interval_95%,Units,Value
+2019,Central position,Total Number,1000
+2019,High position,Total Number,1400
+2019,Low position,Total Number,600

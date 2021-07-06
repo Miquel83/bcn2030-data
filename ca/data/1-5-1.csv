@@ -1,13 +1,13 @@
-Year,Tipus atenció,Units,Value
-2015,Emergències socials,Número Total,2080
-2015,Urgències socials,Número Total,20105
-2015,,Número Total,22185
-2016,Emergències socials,Número Total,1505
-2016,Urgències socials,Número Total,21915
-2016,,Número Total,23420
-2017,Emergències socials,Número Total,2986
-2017,Urgències socials,Número Total,25162
-2017,,Número Total,28148
-2018,Emergències socials,Número Total,2301
-2018,Urgències socials,Número Total,18781
-2018,,Número Total,21082
+Year,Type_assistance,Units,Value
+2015,Social emergencies,Total Number,2080
+2015,Urgent social situations,Total Number,20105
+2015,,Total Number,22185
+2016,Social emergencies,Total Number,1505
+2016,Urgent social situations,Total Number,21915
+2016,,Total Number,23420
+2017,Social emergencies,Total Number,2986
+2017,Urgent social situations,Total Number,25162
+2017,,Total Number,28148
+2018,Social emergencies,Total Number,2301
+2018,Urgent social situations,Total Number,18781
+2018,,Total Number,21082
