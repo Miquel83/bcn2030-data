@@ -1,4 +1,4 @@
-Year,Género,Units,Value
-2016,,Porcentaje,19.2
-2016,Hombres,Porcentaje,23.7
-2016,Mujeres,Porcentaje,16.5
+Year,Gender,Units,Value
+2016,,Percentage,19.2
+2016,Men,Percentage,23.7
+2016,Women,Percentage,16.5
