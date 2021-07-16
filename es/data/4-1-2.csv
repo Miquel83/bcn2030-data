@@ -1,49 +1,49 @@
-Year,District,Units,Value
-2015-2016,Barcelona,Percentage,89.5
-2015-2016,Ciutat Vella,Percentage,74.1
-2015-2016,Eixample,Percentage,92.9
-2015-2016,Sants-Montjuïc,Percentage,84.4
-2015-2016,Les Corts,Percentage,92.5
-2015-2016,Sarrià-Sant Gervasi,Percentage,94.1
-2015-2016,Gràcia,Percentage,94.2
-2015-2016,Horta-Guinardó,Percentage,90.2
-2015-2016,Nou Barris,Percentage,82.7
-2015-2016,Sant Andreu,Percentage,88.8
-2015-2016,Sant Martí,Percentage,88.2
-2015-2016,Gap,Percentage,20.1
-2016-2017,Barcelona,Percentage,89.5
-2016-2017,Ciutat Vella,Percentage,79.2
-2016-2017,Eixample,Percentage,89.5
-2016-2017,Sants-Montjuïc,Percentage,84.8
-2016-2017,Les Corts,Percentage,90.8
-2016-2017,Sarrià-Sant Gervasi,Percentage,94.2
-2016-2017,Gràcia,Percentage,95.5
-2016-2017,Horta-Guinardó,Percentage,89.6
-2016-2017,Nou Barris,Percentage,83.7
-2016-2017,Sant Andreu,Percentage,90.6
-2016-2017,Sant Martí,Percentage,89.0
-2016-2017,Gap,Percentage,16.3
-2017-2018,Barcelona,Percentage,90.7
-2017-2018,Ciutat Vella,Percentage,78.0
-2017-2018,Eixample,Percentage,92.6
-2017-2018,Sants-Montjuïc,Percentage,86.2
-2017-2018,Les Corts,Percentage,96.3
-2017-2018,Sarrià-Sant Gervasi,Percentage,95.8
-2017-2018,Gràcia,Percentage,96.0
-2017-2018,Horta-Guinardó,Percentage,88.3
-2017-2018,Nou Barris,Percentage,82.4
-2017-2018,Sant Andreu,Percentage,90.8
-2017-2018,Sant Martí,Percentage,90.3
-2017-2018,Gap,Percentage,18.3
-2018-2019,Barcelona,Percentage,90.0
-2018-2019,Ciutat Vella,Percentage,85.0
-2018-2019,Eixample,Percentage,91.8
-2018-2019,Sants-Montjuïc,Percentage,85.6
-2018-2019,Les Corts,Percentage,98.2
-2018-2019,Sarrià-Sant Gervasi,Percentage,97.4
-2018-2019,Gràcia,Percentage,93.8
-2018-2019,Horta-Guinardó,Percentage,87.3
-2018-2019,Nou Barris,Percentage,75.6
-2018-2019,Sant Andreu,Percentage,91.4
-2018-2019,Sant Martí,Percentage,86.3
-2018-2019,Gap,Percentage,22.6
+Year,Distrito,Units,Value
+2015-2016,Barcelona,Porcentaje,89.5
+2015-2016,Ciutat Vella,Porcentaje,74.1
+2015-2016,Eixample,Porcentaje,92.9
+2015-2016,Sants-Montjuïc,Porcentaje,84.4
+2015-2016,Les Corts,Porcentaje,92.5
+2015-2016,Sarrià-Sant Gervasi,Porcentaje,94.1
+2015-2016,Gràcia,Porcentaje,94.2
+2015-2016,Horta-Guinardó,Porcentaje,90.2
+2015-2016,Nou Barris,Porcentaje,82.7
+2015-2016,Sant Andreu,Porcentaje,88.8
+2015-2016,Sant Martí,Porcentaje,88.2
+2015-2016,Gap,Porcentaje,20.1
+2016-2017,Barcelona,Porcentaje,89.5
+2016-2017,Ciutat Vella,Porcentaje,79.2
+2016-2017,Eixample,Porcentaje,89.5
+2016-2017,Sants-Montjuïc,Porcentaje,84.8
+2016-2017,Les Corts,Porcentaje,90.8
+2016-2017,Sarrià-Sant Gervasi,Porcentaje,94.2
+2016-2017,Gràcia,Porcentaje,95.5
+2016-2017,Horta-Guinardó,Porcentaje,89.6
+2016-2017,Nou Barris,Porcentaje,83.7
+2016-2017,Sant Andreu,Porcentaje,90.6
+2016-2017,Sant Martí,Porcentaje,89.0
+2016-2017,Gap,Porcentaje,16.3
+2017-2018,Barcelona,Porcentaje,90.7
+2017-2018,Ciutat Vella,Porcentaje,78.0
+2017-2018,Eixample,Porcentaje,92.6
+2017-2018,Sants-Montjuïc,Porcentaje,86.2
+2017-2018,Les Corts,Porcentaje,96.3
+2017-2018,Sarrià-Sant Gervasi,Porcentaje,95.8
+2017-2018,Gràcia,Porcentaje,96.0
+2017-2018,Horta-Guinardó,Porcentaje,88.3
+2017-2018,Nou Barris,Porcentaje,82.4
+2017-2018,Sant Andreu,Porcentaje,90.8
+2017-2018,Sant Martí,Porcentaje,90.3
+2017-2018,Gap,Porcentaje,18.3
+2018-2019,Barcelona,Porcentaje,90.0
+2018-2019,Ciutat Vella,Porcentaje,85.0
+2018-2019,Eixample,Porcentaje,91.8
+2018-2019,Sants-Montjuïc,Porcentaje,85.6
+2018-2019,Les Corts,Porcentaje,98.2
+2018-2019,Sarrià-Sant Gervasi,Porcentaje,97.4
+2018-2019,Gràcia,Porcentaje,93.8
+2018-2019,Horta-Guinardó,Porcentaje,87.3
+2018-2019,Nou Barris,Porcentaje,75.6
+2018-2019,Sant Andreu,Porcentaje,91.4
+2018-2019,Sant Martí,Porcentaje,86.3
+2018-2019,Gap,Porcentaje,22.6
