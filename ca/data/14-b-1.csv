@@ -1,26 +1,26 @@
-Year,Type_of_boat,Units,Value
-2015,Embarcacions d'Arts menors,Total Number,2
-2016,Embarcacions d'Arts menors,Total Number,2
-2017,Embarcacions d'Arts menors,Total Number,2
-2018,Embarcacions d'Arts menors,Total Number,2
-2019,Embarcacions d'Arts menors,Total Number,2
-2015,Embarcacions d'Arrossegament,Total Number,12
-2016,Embarcacions d'Arrossegament,Total Number,12
-2017,Embarcacions d'Arrossegament,Total Number,10
-2018,Embarcacions d'Arrossegament,Total Number,10
-2019,Embarcacions d'Arrossegament,Total Number,10
-2015,Embarcacions d'Encerclament,Total Number,22
-2016,Embarcacions d'Encerclament,Total Number,22
-2017,Embarcacions d'Encerclament,Total Number,21
-2018,Embarcacions d'Encerclament,Total Number,15
-2019,Embarcacions d'Encerclament,Total Number,15
-2015,Embarcacions Auxiliars,Total Number,0
-2016,Embarcacions Auxiliars,Total Number,1
-2017,Embarcacions Auxiliars,Total Number,1
-2018,Embarcacions Auxiliars,Total Number,1
-2019,Embarcacions Auxiliars,Total Number,1
-2015,,Total Number,36
-2016,,Total Number,37
-2017,,Total Number,34
-2018,,Total Number,28
-2019,,Total Number,28
+Year,Tipus d'embarcació,Units,Value
+2015,Embarcacions d'Arts menors,Número Total,2
+2016,Embarcacions d'Arts menors,Número Total,2
+2017,Embarcacions d'Arts menors,Número Total,2
+2018,Embarcacions d'Arts menors,Número Total,2
+2019,Embarcacions d'Arts menors,Número Total,2
+2015,Embarcacions d'Arrossegament,Número Total,12
+2016,Embarcacions d'Arrossegament,Número Total,12
+2017,Embarcacions d'Arrossegament,Número Total,10
+2018,Embarcacions d'Arrossegament,Número Total,10
+2019,Embarcacions d'Arrossegament,Número Total,10
+2015,Embarcacions d'Encerclament,Número Total,22
+2016,Embarcacions d'Encerclament,Número Total,22
+2017,Embarcacions d'Encerclament,Número Total,21
+2018,Embarcacions d'Encerclament,Número Total,15
+2019,Embarcacions d'Encerclament,Número Total,15
+2015,Embarcacions Auxiliars,Número Total,0
+2016,Embarcacions Auxiliars,Número Total,1
+2017,Embarcacions Auxiliars,Número Total,1
+2018,Embarcacions Auxiliars,Número Total,1
+2019,Embarcacions Auxiliars,Número Total,1
+2015,,Número Total,36
+2016,,Número Total,37
+2017,,Número Total,34
+2018,,Número Total,28
+2019,,Número Total,28
