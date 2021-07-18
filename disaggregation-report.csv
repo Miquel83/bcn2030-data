@@ -2,8 +2,9 @@ Disaggregation,Number of indicators,Number of values
 Basic_Skill,1,5
 Confidence_Interval_95%,1,3
 District,2,14
-Gender,12,2
+Gender,13,4
 Geographical_Area,3,5
+Group_Age,1,1
 Language,1,3
 Type_assistance,1,2
 Type_Housing,1,4

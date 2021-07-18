@@ -1,1 +1,16 @@
-Year,Value
+Year,Type_Cultural_Service,Units,Value
+2016,Public library,Percentage,16.5
+2017,Public library,Percentage,
+2018,Public library,Percentage,
+2019,Public library,Percentage,13.8
+2020,Public library,Percentage,13.2
+2016,Popular festival,Percentage,11.7
+2017,Popular festival,Percentage,
+2018,Popular festival,Percentage,
+2019,Popular festival,Percentage,16.1
+2020,Popular festival,Percentage,14.4
+2016,Cultural activity,Percentage,23.7
+2017,Cultural activity,Percentage,
+2018,Cultural activity,Percentage,
+2019,Cultural activity,Percentage,22.4
+2020,Cultural activity,Percentage,23.9
