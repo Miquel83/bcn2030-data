@@ -1,1 +1,11 @@
-Year,Value
+Year,Área,Units,Value
+2015,Barrio,Escala de 0 a 10,6.3
+2016,Barrio,Escala de 0 a 10,6.5
+2017,Barrio,Escala de 0 a 10,6.4
+2018,Barrio,Escala de 0 a 10,5.9
+2019,Barrio,Escala de 0 a 10,5.9
+2015,Ciudad,Escala de 0 a 10,6.2
+2016,Ciudad,Escala de 0 a 10,6.3
+2017,Ciudad,Escala de 0 a 10,6.2
+2018,Ciudad,Escala de 0 a 10,5.2
+2019,Ciudad,Escala de 0 a 10,5.2

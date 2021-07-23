@@ -1,1 +1,11 @@
-Year,Value
+Year,Àrea,Units,Value
+2015,Barri,Escala de 0 a 10,6.3
+2016,Barri,Escala de 0 a 10,6.5
+2017,Barri,Escala de 0 a 10,6.4
+2018,Barri,Escala de 0 a 10,5.9
+2019,Barri,Escala de 0 a 10,5.9
+2015,Ciutat,Escala de 0 a 10,6.2
+2016,Ciutat,Escala de 0 a 10,6.3
+2017,Ciutat,Escala de 0 a 10,6.2
+2018,Ciutat,Escala de 0 a 10,5.2
+2019,Ciutat,Escala de 0 a 10,5.2
