@@ -154,6 +154,9 @@ prose:
               - name: 'Proxy'
                 value: 'Proxy'
                 translation_key: custom-translations.proxy
+              - name: 'Integrated'
+                value: 'Integrated'
+                translation_key: custom-translations.integrated
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
