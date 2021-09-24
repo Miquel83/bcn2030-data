@@ -1,33 +1,33 @@
 Year,Sector,Units,Value
-2015,Domèstic,x1000 Mt de CO2,701.6
-2016,Domèstic,x1000 Mt de CO2,664.7
-2017,Domèstic,x1000 Mt de CO2,696.5
-2018,Domèstic,x1000 Mt de CO2,762.1
-2015,Comerç,x1000 Mt de CO2,687.0
-2016,Comerç,x1000 Mt de CO2,683.6
-2017,Comerç,x1000 Mt de CO2,702.4
-2018,Comerç,x1000 Mt de CO2,729.7
-2015,Industrial,x1000 Mt de CO2,285.6
-2016,Industrial,x1000 Mt de CO2,289.5
-2017,Industrial,x1000 Mt de CO2,261.8
-2018,Industrial,x1000 Mt de CO2,280.4
-2015,Transport,x1000 Mt de CO2,1032.7
-2016,Transport,x1000 Mt de CO2,1021.3
-2017,Transport,x1000 Mt de CO2,935.0
-2018,Transport,x1000 Mt de CO2,999.4
-2015,Altres,x1000 Mt de CO2,9.7
-2016,Altres,x1000 Mt de CO2,10.1
-2017,Altres,x1000 Mt de CO2,9.6
-2018,Altres,x1000 Mt de CO2,7.2
-2015,Port i Aeroport,x1000 Mt de CO2,422.8
-2016,Port i Aeroport,x1000 Mt de CO2,444.1
-2017,Port i Aeroport,x1000 Mt de CO2,438.8
-2018,Port i Aeroport,x1000 Mt de CO2,452.9
-2015,Tractament de residus,x1000 Mt de CO2,316.2
-2016,Tractament de residus,x1000 Mt de CO2,346.8
-2017,Tractament de residus,x1000 Mt de CO2,364.2
-2018,Tractament de residus,x1000 Mt de CO2,363.1
-2015,Emissions totals,x1000 Mt de CO2,3455.5
-2016,Emissions totals,x1000 Mt de CO2,3460.2
-2017,Emissions totals,x1000 Mt de CO2,3408.3
-2018,Emissions totals,x1000 Mt de CO2,3594.8
+2015,Domèstic,x1000 tones de CO2,701.6
+2016,Domèstic,x1000 tones de CO2,664.7
+2017,Domèstic,x1000 tones de CO2,696.5
+2018,Domèstic,x1000 tones de CO2,762.1
+2015,Comerç,x1000 tones de CO2,687.0
+2016,Comerç,x1000 tones de CO2,683.6
+2017,Comerç,x1000 tones de CO2,702.4
+2018,Comerç,x1000 tones de CO2,729.7
+2015,Industrial,x1000 tones de CO2,285.6
+2016,Industrial,x1000 tones de CO2,289.5
+2017,Industrial,x1000 tones de CO2,261.8
+2018,Industrial,x1000 tones de CO2,280.4
+2015,Transport,x1000 tones de CO2,1032.7
+2016,Transport,x1000 tones de CO2,1021.3
+2017,Transport,x1000 tones de CO2,935.0
+2018,Transport,x1000 tones de CO2,999.4
+2015,Altres,x1000 tones de CO2,9.7
+2016,Altres,x1000 tones de CO2,10.1
+2017,Altres,x1000 tones de CO2,9.6
+2018,Altres,x1000 tones de CO2,7.2
+2015,Port i Aeroport,x1000 tones de CO2,422.8
+2016,Port i Aeroport,x1000 tones de CO2,444.1
+2017,Port i Aeroport,x1000 tones de CO2,438.8
+2018,Port i Aeroport,x1000 tones de CO2,452.9
+2015,Tractament de residus,x1000 tones de CO2,316.2
+2016,Tractament de residus,x1000 tones de CO2,346.8
+2017,Tractament de residus,x1000 tones de CO2,364.2
+2018,Tractament de residus,x1000 tones de CO2,363.1
+2015,Emissions totals,x1000 tones de CO2,3455.5
+2016,Emissions totals,x1000 tones de CO2,3460.2
+2017,Emissions totals,x1000 tones de CO2,3408.3
+2018,Emissions totals,x1000 tones de CO2,3594.8

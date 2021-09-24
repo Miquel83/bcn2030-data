@@ -1,33 +1,33 @@
 Year,Sector,Units,Value
-2015,Doméstico,x1000 Mt de CO2,701.6
-2016,Doméstico,x1000 Mt de CO2,664.7
-2017,Doméstico,x1000 Mt de CO2,696.5
-2018,Doméstico,x1000 Mt de CO2,762.1
-2015,Comercio,x1000 Mt de CO2,687.0
-2016,Comercio,x1000 Mt de CO2,683.6
-2017,Comercio,x1000 Mt de CO2,702.4
-2018,Comercio,x1000 Mt de CO2,729.7
-2015,Industrial,x1000 Mt de CO2,285.6
-2016,Industrial,x1000 Mt de CO2,289.5
-2017,Industrial,x1000 Mt de CO2,261.8
-2018,Industrial,x1000 Mt de CO2,280.4
-2015,Transporte,x1000 Mt de CO2,1032.7
-2016,Transporte,x1000 Mt de CO2,1021.3
-2017,Transporte,x1000 Mt de CO2,935.0
-2018,Transporte,x1000 Mt de CO2,999.4
-2015,Otros,x1000 Mt de CO2,9.7
-2016,Otros,x1000 Mt de CO2,10.1
-2017,Otros,x1000 Mt de CO2,9.6
-2018,Otros,x1000 Mt de CO2,7.2
-2015,Puerto y Aeropuerto,x1000 Mt de CO2,422.8
-2016,Puerto y Aeropuerto,x1000 Mt de CO2,444.1
-2017,Puerto y Aeropuerto,x1000 Mt de CO2,438.8
-2018,Puerto y Aeropuerto,x1000 Mt de CO2,452.9
-2015,Tratamiento de residuos,x1000 Mt de CO2,316.2
-2016,Tratamiento de residuos,x1000 Mt de CO2,346.8
-2017,Tratamiento de residuos,x1000 Mt de CO2,364.2
-2018,Tratamiento de residuos,x1000 Mt de CO2,363.1
-2015,Emisiones totales,x1000 Mt de CO2,3455.5
-2016,Emisiones totales,x1000 Mt de CO2,3460.2
-2017,Emisiones totales,x1000 Mt de CO2,3408.3
-2018,Emisiones totales,x1000 Mt de CO2,3594.8
+2015,Doméstico,x1000 toneladas de CO2,701.6
+2016,Doméstico,x1000 toneladas de CO2,664.7
+2017,Doméstico,x1000 toneladas de CO2,696.5
+2018,Doméstico,x1000 toneladas de CO2,762.1
+2015,Comercio,x1000 toneladas de CO2,687.0
+2016,Comercio,x1000 toneladas de CO2,683.6
+2017,Comercio,x1000 toneladas de CO2,702.4
+2018,Comercio,x1000 toneladas de CO2,729.7
+2015,Industrial,x1000 toneladas de CO2,285.6
+2016,Industrial,x1000 toneladas de CO2,289.5
+2017,Industrial,x1000 toneladas de CO2,261.8
+2018,Industrial,x1000 toneladas de CO2,280.4
+2015,Transporte,x1000 toneladas de CO2,1032.7
+2016,Transporte,x1000 toneladas de CO2,1021.3
+2017,Transporte,x1000 toneladas de CO2,935.0
+2018,Transporte,x1000 toneladas de CO2,999.4
+2015,Otros,x1000 toneladas de CO2,9.7
+2016,Otros,x1000 toneladas de CO2,10.1
+2017,Otros,x1000 toneladas de CO2,9.6
+2018,Otros,x1000 toneladas de CO2,7.2
+2015,Puerto y Aeropuerto,x1000 toneladas de CO2,422.8
+2016,Puerto y Aeropuerto,x1000 toneladas de CO2,444.1
+2017,Puerto y Aeropuerto,x1000 toneladas de CO2,438.8
+2018,Puerto y Aeropuerto,x1000 toneladas de CO2,452.9
+2015,Tratamiento de residuos,x1000 toneladas de CO2,316.2
+2016,Tratamiento de residuos,x1000 toneladas de CO2,346.8
+2017,Tratamiento de residuos,x1000 toneladas de CO2,364.2
+2018,Tratamiento de residuos,x1000 toneladas de CO2,363.1
+2015,Emisiones totales,x1000 toneladas de CO2,3455.5
+2016,Emisiones totales,x1000 toneladas de CO2,3460.2
+2017,Emisiones totales,x1000 toneladas de CO2,3408.3
+2018,Emisiones totales,x1000 toneladas de CO2,3594.8
